@@ -14,3 +14,6 @@ async function fetchData() {
   }
 
   fetchData();
+
+  document.getElementById;
+  
